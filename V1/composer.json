@@ -1,0 +1,13 @@
+{
+    "name": "antoine/movies",
+    "require": {
+        "catfan/medoo": "^1.4",
+        "altorouter/altorouter": "^1.2",
+        "zircote/swagger-php": "^2.0",
+        "spomky-labs/jose": "^7.0",
+        "firebase/php-jwt": "^5.0"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "2.*"
+    }
+}
