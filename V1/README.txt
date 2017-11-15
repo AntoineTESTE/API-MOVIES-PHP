@@ -1,8 +1,8 @@
 GUILLAUME
 
 
-Le code est présenté est imbriqué dans un seul fichier.
-- un accès DB
+Le code est prÃ©sentÃ© est imbriquÃ© dans un seul fichier.
+- un accÃ¨s DB
 - un routeur
 - des fonctions getters
 - des routes get / post /  put / delete
@@ -11,8 +11,6 @@ une doc en HTML
 
 un fichier token qui aurait servit pour l'indentification
 
-Voila, un beau bourrier :) mais je pense que l"idée est là
+Voila, un beau bourrier :) mais je pense que l"idÃ©e est lÃ 
 
 Merci
-
-Antoine TESTE
